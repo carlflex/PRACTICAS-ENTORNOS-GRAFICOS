@@ -25,7 +25,7 @@ Forma de hacer comentarios en HTML en este caso el comentario no esta cerrado
 
 - SRC: Si es obligatorio.
 
-- ALT: No obligatorio.
+- ALT: No obligatorio .
 
 - NAME: No es obligatorio en esta etiqueta
 
@@ -52,17 +52,4 @@ Forma de hacer comentarios en HTML en este caso el comentario no esta cerrado
 
 2.e)
 
-- Se utiliza para crear un enlace en una página web.
-- Va dentro del body
 
-**Atributos:**
-
-- HREF: Es obligatorio
-
-- TYPE: No es obligatorio
-
-- HREFLANG: No es obligatorio
-
-- CHARSET: No es obligatorio
-
-- REL: No es obligatorio
