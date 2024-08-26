@@ -19,14 +19,12 @@ Los principios que recomienda seguir el W3C para la creación de documentos con 
     <dt>Ayudar a los agentes de usuario con la representación incremental</dt>
     <dd>El diseño cuidadoso de tablas y haciendo uso de las características de HTML 4, los autores pueden ayudar a los agentes de usuario a representar los documentos más rápidamente.</dd>
 </dl><br>
-
 ___
 3. <b>En las Especificaciones de HTML, ¿cuándo un elemento o atributo se considera desaprobado? ¿y obsoleto?</b>
 <br>
 Un elemento <b>desaprobado</b> es aquel que ha quedado anticuado por la presencia de estructuras nuevas. Estos se definen en el manual de referencia en los lugares apropiados, pero claramente marcados como desaprobados. Los elementos desaprobados pueden declararse obsoletos en versiones futuras de HTML. Se debería seguir dando soporte a los elementos desaprobados por razones de compatibilidad con versiones anteriores.
 <br>
 Por otro lado, un atributo <b>obsoleto</b> es aquél para el cual no hay garantía de soporte por parte de un agente de usuario. Los elementos obsoletos han dejado de estar definidos en la especificación, pero se enumeran por motivos históricos en la sección de cambios del manual de referencia.<br>
-
 ___
 4. <b>¿Qué es el DTD y cuáles son los posibles DTDs contemplados en la especificación de HTML 4.01?</b>
 <br>
@@ -38,7 +36,6 @@ HTML 4.01 contempla tres tipos de DTDs, que determinan la flexibilidad y las res
 <li>HTML 4.01 Transitional</li>
 <li>HTML 4.01 Frameset</li>
 </ul><br>
-
 ___
 5. <b>¿Qué son los metadatos y cómo se especifican en HTML?</b>
 <br>

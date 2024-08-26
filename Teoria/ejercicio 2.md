@@ -32,3 +32,9 @@ Forma de hacer comentarios en HTML en este caso el comentario no esta cerrado
 
 2.d)
 
+- Proporcionan metadatos sobre el documento HTML.
+- Va dentro del head.
+
+**Atributos:**
+
+- NAME: 
