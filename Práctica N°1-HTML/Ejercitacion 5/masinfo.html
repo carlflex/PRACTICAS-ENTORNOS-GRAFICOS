@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <h1>Consultas</h1>
+
+    <div class="formulario">
+        <form action="mailto:consultas@empresa.com" method="post" enctype="text/plain">
+            <div style="display: flex;">
+                <div >
+                    <label for="email"><b>e-mail:</b></label><br>
+                    <label for="consulta"><b>consulta:</b></label><br>
+                </div>
+                <div style="display: flex; flex-direction:column;">
+                    <input type="text" id="email" name="email">
+                    <textarea id="consulta" name="consulta" rows="4"></textarea><br>
+                </div>
+            </div>
+            
+            <input type="submit" value="ENVIAR" style="font-weight: bolder;">
+            <input type="reset" value="BORRAR" style="font-weight: bolder;">
+        </form>
+    </div>
+
+</body>
+</html>

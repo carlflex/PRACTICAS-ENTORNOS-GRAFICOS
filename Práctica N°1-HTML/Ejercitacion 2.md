@@ -2,9 +2,9 @@
 # Ejercicio 2
 ---
 
-![alt text](image.png)
-![alt text](image-1.png)
-![alt text](image-2.png)
+![alt text](./Imagenes/image.png)
+![alt text](./Imagenes/image-1.png)
+![alt text](./Imagenes/image-2.png)
 
 2.a)
 
@@ -66,3 +66,44 @@ Forma de hacer comentarios en HTML en este caso el comentario no esta cerrado
 - CHARSET: No es obligatorio
 
 - REL: No es obligatorio
+
+2.f)
+
+Etiqueta Table:
+
+- Se utiliza para crear una tabla en HTML.
+- Va dentro del body.
+
+**Atributos:**
+
+- WIDTH: No es obligatorio ya que el ancho puede ser especificado en CSS.
+
+- SUMMARY: No es obligatorio.
+
+Etiqueta Caption:
+
+- Se utiliza para para proporcionar un título o una descripción breve para una tabla en HTML.
+- Va dentro de table.
+
+**Atributos:**
+
+- ALIGN: No es obligatorio.
+
+Etiqueta TR:
+
+- Se utiliza para definir una fila dentro de una tabla.
+- Va dentro de table.
+
+Etiqueta TH:
+
+- Se utiliza para definir una celda de encabezado en una tabla.
+- Va dentro de tr.
+
+**Atributos:**
+
+- SCOPE: No es obligatorio.
+
+Etiqueta TD:
+
+- Se utiliza para definir una celda de datos en una tabla.
+- Va dentro de tr.
