@@ -4,8 +4,6 @@
 
 3.a)
 
-![alt text](./Imagenes/image-3a.png)
-
 - 1º Segmento: Enlace estándar que redirige a la página de Google. Al hacer click, se abre el sitio de Google en la misma ventana.
 
 - 2º Segmento: En pantalla se visualiza exactamente igual que el segmento anterior, con la diferencia que al hacer click se abre en una pestaña/ventana diferente gracias al atributo 'target="_blank"'.
@@ -20,8 +18,6 @@
 
 3.b)
 
-![alt text](./Imagenes/image-3b.jpeg)
-
 - 1° Segmento: Lista <b>no</b>> ordenada que contiene xxx, yyy, zzz cada una en un ítem.
 
 - 2° Segmento: Lista ordenada que contiene xxx, yyy, zzz cada una en un ítem numerado.
@@ -32,7 +28,6 @@
 
 3.c)
 
-![alt text](./Imagenes/image-3c.png)
 
 - 1º Segmento: Se puede visualizar una Lista No Ordenada. Los items se muestran con un punto al inicio.
 
@@ -45,7 +40,6 @@
 
 3.d)
 
-![alt text](./Imagenes/image-3d.jpeg)
 
 - 1° Segmento: Tabla, con un borde de 1 pixel y un ancho de 300 pixeles, que tiene dos columnas y 3 filas, en las do columnas de la primera fila se ve el texto de columna 1 y columna 2.
 
@@ -53,7 +47,6 @@
 
 3.e)
 
-![alt text](./Imagenes/image-3e.jpeg)
 
 - 1° Segmento: Esta tabla utiliza la etiqueta caption para mostrar un título. La etiqueta caption se colaca dentro de la tabla, pero antes de las filas. Los datos tienen un fondo gris claro.
 
