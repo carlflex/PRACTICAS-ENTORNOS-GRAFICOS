@@ -12,6 +12,8 @@ Algunas ventajas de utilizar HTML5 son:<br><br>
 
 2. **¿Por qué utilizarlo?**
 
+Se recomienda utilizarlo HTML5 ya que esta es la última versión de HTML, al ser la última versión introduce una gran cantidad de mejoras con respecto a sus versiones predecesoras. La gran ventaja de desarrollar aplicaciones HTML5 es que el resultado final es completamente accesible, es decir, se puede acceder a esta aplicación desde un ordenador, tablet o móvil. Incluso al cambiar de dispositivo, se puede acceder a la aplicación web mediante la URL respectiva, cosa que no sucede con una aplicación móvil.
+
 3. **Nombre ventajas**
 
 En este apartado se añadirán a las ventajas previamente mencionadas algunas otras obtenidas de diversas fuentes. Entre las ventajas de utilizar HTML5 por encima de sus anteriores versiones son:
