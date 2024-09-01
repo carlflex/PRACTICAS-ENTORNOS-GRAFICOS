@@ -50,12 +50,12 @@ Una pseudo-clase es una palabra clave que se añade a los selectores para especi
 
 ___
 
-6.<b>¿Qué es la herencia?</b>
+6. <b>¿Qué es la herencia?</b>
 <br>
 La herencia se refiere a la forma en que algunos estilos aplicados a un elemento padre son transmitidos a sus elementos hijos. Además puede especificarse que no se transmitan esos elementos, esto puede servir para cuando algún elemnto hijo debe ser distinto a los demás.
 
 ___
 
-7.<b>¿En qué consiste el proceso denominado cascada?</b>
+7. <b>¿En qué consiste el proceso denominado cascada?</b>
 <br>
 Es la forma en que se combinan las reglas de estilo para determinar los estilos finales de un elemento. Esto incluye la combinación de estilos en línea, internos y externos, además de la herencia. En la cascada, se aplican las reglas según la especificidad del selector, la importancia (con la regla !important), y el orden en que aparecen en la hoja de estilo, donde las reglas posteriores pueden sobrescribir las anteriores.
