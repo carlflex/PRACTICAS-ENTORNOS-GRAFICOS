@@ -1,0 +1,37 @@
+
+body{
+    height: 100vh;
+}
+.gris {
+    background-color: #9d8d98;
+    background-clip: content-box;
+    padding: 10px;
+    min-height: 70px;
+}
+
+.celeste {
+    background-color: #7c9ecb;
+    background-clip: content-box;
+    padding: 10px;
+    min-height: 125px;
+}
+
+.violeta {
+    background-color: #b39ddb;
+    margin-bottom: 10px;
+    padding: 15px 0px 15px 0px;
+}
+
+.crema {
+    background-color: #f5dad1;
+    background-clip: content-box;
+    padding: 10px;
+    min-height: 75px;
+}
+
+.verde {
+    background-color: #68cc83;
+    background-clip: content-box;
+    padding: 10px;
+    min-height: 70px;
+}
