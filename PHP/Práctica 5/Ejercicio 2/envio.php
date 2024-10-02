@@ -1,6 +1,4 @@
 <?php
-    $fecha =date("d-m-Y");
-    $hora =date("H:i:s");
     $destino = "pedemontenicolas2004@gmail.com";
     $asunto = $_POST['asunto'];
     $desde = 'From:' .$_POST['email'];
