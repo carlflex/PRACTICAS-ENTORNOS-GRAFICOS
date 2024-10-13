@@ -40,5 +40,10 @@ Consulta a una base de datos: Para comenzar la comunicación con un servidor de 
 
 <br><br><br> Si la función mysqli_query() es exitosa, el conjunto resultante retornado se almacena en una variable, por ejemplo $vResult, y a continuación se puede ejecutar el siguiente código (explicarlo):
 
-
 ![Foto código ejercicio 1](/PHP/Práctica%206/Imagenes/Codigo%20Ejercicio%201.png)
+
+<br> 
+
+La función mysqli_fetch_array($vResultado) almacena los datos en un array. Entonces la sentencia while recorrerá cada fila de este array. 
+A continuación se muestran los valores de las columnas 0, 1 y 2 de la fila actual, esto mediante los echo, en un formato de tabla. Cada valor se coloca dentro de unacelda.
+Finalmente se libera la memoria ocupada mediante mysqli_free_result($vResultado) y luego se cierra la conexión a la base de datos con mysqli_close($link)
