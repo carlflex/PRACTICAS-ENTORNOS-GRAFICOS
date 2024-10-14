@@ -15,9 +15,9 @@
         <button type="submit" name="action" value="listado_paginado">Listado con Paginación</button>
     </form>
 
-    <?
-    php
-    if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['action'])) {
+    <?php
+
+    if($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['action'])){
         switch ($_POST['action']) {
             case 'alta':
                 include 'Alta.php';
@@ -34,8 +34,8 @@
             case 'listado_paginado':
                 include 'Listado_paginado.php';
                 break;
-        }
-    }
+        };
+    };
     ?>
 
 </body>
